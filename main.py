@@ -8,5 +8,5 @@ def div(a,b):
     if b == 0:
         return "Error: Division by zero"
     return a / b
-def multiply(a,b):
-    return a * b
+def multiply(a,b,c):
+    return a * b *c
